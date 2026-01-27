@@ -1,0 +1,3 @@
+yt_dlp/**/*.mp3
+**/*.exe
+yt_dlp/build
